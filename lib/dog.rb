@@ -8,4 +8,9 @@ class Dog
     end
 
 end# Your code goes here!
-"fido" = dogs_name
+
+fido =Dog.new
+fido.name = "Fido"
+
+fido.name
+fido.bark
